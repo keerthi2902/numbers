@@ -11,12 +11,12 @@ int main()
       if(num%i==0)
       {
         count++;
-        cout<< "not a whole number";
+        cout<< "not a prime number";
         
        }
     }
     if(count==0) 
-       cout<<" a whole number";
+       cout<<" a prime number";
     
  }
  
